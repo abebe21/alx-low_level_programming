@@ -9,14 +9,15 @@
 void more_numbers(void)
 {
 	int h, g;
-	
+
 	for (h = 0; h < 10; h++)
 	{
 		for (g = 0; g < 15; g++)
-		{															if (g >= 10)
-																	putchar(g / 10 + '0');
-																	putchar(g % 10 + '0');
- 		}
+		{
+			if (g >= 10)
+				putchar(g / 10 + '0');
+				putchar(g % 10 + '0');
+		}
 
 		putchar('\n');
 	}
