@@ -13,10 +13,10 @@ void print_diagonal(int n)
 	{
 		putchar('\n');
 	}
-       	else
+	else
 	{
 		int h, g;
-		
+
 		for (h = 0; h < n; h++)
 		{
 			for (g = 0; g < n; g++)

@@ -13,7 +13,7 @@ int main(void)
 	char fizz[] = "Fizz";
 	char buzz[] = "Buzz";
 	char fibu[] = "FizzBuzz";
-	
+
 	for (h = 1; h <= 100; h++)
 	{
 		if (h % 3 == 0 && h % 5 != 0)
