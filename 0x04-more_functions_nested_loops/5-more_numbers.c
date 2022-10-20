@@ -6,6 +6,7 @@
  *  followed by a new line.
  *
  **/
+
 void more_numbers(void)
 {
 	int h, g;
