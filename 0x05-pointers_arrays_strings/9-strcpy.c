@@ -20,8 +20,8 @@ char *_strcpy(char *dest, char *src)
 		*(dest + inc) = *(src + inc);
 		inc++;
 	}
-	
+
 	*(dest + inc) = '\0';
-	
+
 	return (dest);
 }
