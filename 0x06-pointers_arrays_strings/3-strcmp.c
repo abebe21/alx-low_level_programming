@@ -4,7 +4,6 @@
  * _strcmp - compare strings
  * @s1: first input char
  * @s2: second input char
- * 
  * Description: the function compares two strings
  * Return: character count
  */
