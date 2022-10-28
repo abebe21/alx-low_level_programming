@@ -1,13 +1,12 @@
 #include "main.h"
 
 /**
-* _strcat ->  function to concat string
-*
-*@dest:first parameter
-*@src:second parameter
-*
-*return:string
-*/
+ * _strcat ->  function to concat string
+ * @dest:first parameter
+ *  @src:second parameter
+ *  Return:string
+ */
+
 char *_strcat(char *dest, char *src)
 {
 	int l, i;
